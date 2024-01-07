@@ -2,4 +2,4 @@
 kami ada sesi sharing belajar tentang git
 
 
-[Link ke HTML](belajar.html)
+[Link ke HTML](kpb.html)
